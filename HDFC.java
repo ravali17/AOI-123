@@ -6,6 +6,7 @@ public class HDFC extends RBI{
 	void interestRate() {
 		System.out.println("the interest is 10%");
 		System.out.println("the interest is 20%");
+		System.out.println("the interest is 30%");
 		
 	}
 
